@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 I'm just finished working on **Workpal** - AI Meeting Assistant<br>🤝 Looking to collaborate on AI tech and other cool projects<br>☕️ Looking for an employer to sustain coffee habit<br>👾 A fan of Star Wars I, II, III and turn-based strategy games (Civ VI, Total War, C&C)
+🤖 Just finished working on **Workpal** - AI Meeting Assistant<br>🤝 Looking to collaborate on AI tech and other cool projects<br>☕️ Looking for an employer to sustain coffee habit<br>👾 A fan of Star Wars I, II, III and turn-based strategy games (Civ VI, Total War, C&C)
 
 
 ## 🌐 Socials:
